@@ -14,6 +14,7 @@ Questions:
   
 Questions  
 *  How to handle across domains...
+*  Would it be possible for the gh-pages to allow CORS support similar to the APIs.  That seems to be the missing piece for the simple-api to work.  if gh-pages honored applications like the GitHub API, it would be possible to grant sites to access the simple-api solution and access the data.
 
 
 
